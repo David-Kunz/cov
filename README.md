@@ -30,7 +30,7 @@ With [lazy.nvim](https://github.com/folke/lazy.nvim):
 Run your tests with coverage enabled:
 
 ```bash
-jest --coverage --coverageReporters=json
+jest --coverage
 ```
 
 
