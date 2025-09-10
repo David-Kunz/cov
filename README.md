@@ -1,4 +1,4 @@
-# cov
+# cov.nvim
 
 A lightweight Neovim plugin to visualize **Jest/Istanbul coverage** directly in your sign column.  
 It reads `./coverage/coverage-final.json` and shows a colored **vertical bar** (`█`) next to every executed line:
