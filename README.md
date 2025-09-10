@@ -16,7 +16,7 @@ Perfect for quickly spotting untested or rarely tested code while working in Neo
 With [lazy.nvim](https://github.com/folke/lazy.nvim):
 
 ```lua
-{ 'David-Kunz/cov',
+{ 'David-Kunz/cov.nvim',
   config = function()
     require("cov").setup()
   end
