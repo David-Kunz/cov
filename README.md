@@ -44,3 +44,9 @@ You can refresh manually:
 ```
 :CoverageRefresh
 ```
+
+You can toggle it:
+
+```
+:CoverageToggle
+```
